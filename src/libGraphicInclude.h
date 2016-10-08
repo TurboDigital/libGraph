@@ -18,7 +18,7 @@
 #pragma once
 #ifdef _WIN32
 #include <windows.h>
-#include <GL/glut.h>
+#include <GL/freeglut.h>
 #endif
 
 #ifdef __APPLE__
